@@ -2,8 +2,8 @@
 
 /* 폰트 불러오기 */
 @font-face {
-    font-family: 'Reco';
-    src: url('../font/Recipekorea.otf') format('opentype');
+    font-family: "Recipekorea";
+    src: url("../font/Recipekorea.otf") format("opentype");
 }
 
 :root {
@@ -88,7 +88,7 @@ header {
 }
 
 #title p {
-    font-family: 'Reco', sans-serif;
+    font-family: 'Recipekorea', sans-serif;
     font-size: 6vw;
     color: var(--primary);
     line-height: 1.3;
@@ -137,7 +137,7 @@ section .img img {
 
 /* 텍스트 */
 section .text .heading {
-    font-family: 'Reco', sans-serif;
+    font-family: 'Recipekorea', sans-serif;
     font-size: 1.8rem;
     color: var(--primary);
     margin-bottom: 1rem;
